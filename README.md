@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vanshika Garg</h1>
+no<h1 align="center">Hi 👋, I'm Vanshika Garg</h1>
 <h3 align="center">An aspiring software developer and tech enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-vani&label=Profile%20views&color=0e75b6&style=flat" alt="code-vani" /> </p>
 
 - 🌱 I’m currently learning **Backend Web Development, Artificial Intelligence, Cyber Security and Machine Learning.**
-- 🌱 I'm a frontend developer.
+- 🌱 I'm an Upcoming SWE Intern @Visa'25.
 - 🌱 Winner of **JP Morgan and Chase Hackathon '25**
 - 📫 I'm currently a **WIT NXP'24 Scholar**
 - 📫 How to reach me **vanshikagarg.20744@gmail.com**
