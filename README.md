@@ -5,7 +5,7 @@ no<h1 align="center">Hi 👋, I'm Vanshika Garg</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-vani&label=Profile%20views&color=0e75b6&style=flat" alt="code-vani" /> </p>
 
 - 🌱 I’m currently learning **Backend Web Development, Artificial Intelligence, Cyber Security and Machine Learning.**
-- 🌱 I'm an Upcoming SWE Intern @Visa'25.
+- 🌱 I'm a frontend developer
 - 🌱 Winner of **JP Morgan and Chase Hackathon '25**
 - 📫 I'm currently a **WIT NXP'24 Scholar**
 - 📫 How to reach me **vanshikagarg.20744@gmail.com**
